@@ -113,9 +113,6 @@ The built files will be in the `dist/` directory.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Live Demo
-
-Visit the live demo at: [https://keen-cassata-d611d6.netlify.app](https://keen-cassata-d611d6.netlify.app)
 
 ## Support
 
